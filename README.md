@@ -30,4 +30,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     ![markdown](https://images.viblo.asia/63913ebe-03db-408d-8957-378e4c2eac4b.png)
 
 ## `2. RTK bao gồm những gì?`
-  ### 2.1 configureStore() 
+  ### `2.1 configureStore()`
+  ### `2.2 createReducer() -> chưa sử dụng`
+  ### `2.3 createAction()`
+  ### `2.4 createSlice()`
+  ### 2.5 createSelector()
+  ### 2.6 createAsyncThunk()
+  ### 2.7 createEntityAdapter() -> chưa thấy bao giờ
+
+
+![Source](https://2kvn.com/react-gioi-thieu-tong-quat-ve-redux-toolkit-p5f313739)
