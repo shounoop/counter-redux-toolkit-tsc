@@ -59,7 +59,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - This abstracts the standard recommended approach for handling async request lifecycles.
     - It does not generate any reducer functions, since it does not know what data you're fetching, how you want to track loading state, or how the data you return needs to be processed. You should write your own reducer logic that handles these actions, with whatever loading state and processing logic is appropriate for your own app.
     
-  ### `2.7 createEntityAdapter() -> chưa thấy bao giờ`
+  ### `2.7 createEntityAdapter() -> chưa sử dụng`
 
 
 [How to setup RTK](https://2kvn.com/react-gioi-thieu-tong-quat-ve-redux-toolkit-p5f313739)
