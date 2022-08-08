@@ -39,4 +39,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ### 2.7 createEntityAdapter() -> chưa thấy bao giờ
 
 
-![Source](https://2kvn.com/react-gioi-thieu-tong-quat-ve-redux-toolkit-p5f313739)
+[More](https://2kvn.com/react-gioi-thieu-tong-quat-ve-redux-toolkit-p5f313739)
